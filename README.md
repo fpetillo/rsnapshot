@@ -143,4 +143,4 @@ example scripts.  The `utils/rsnapreport.pl` script is well worth a look.
 ## AUTHORS
 
 Please see the [AUTHORS](/AUTHORS) file for the complete list of contributors.
-frank
+
